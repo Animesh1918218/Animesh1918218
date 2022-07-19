@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Animesh1918218
+- 👋 Hi, I’m Animesh Negi
 - 👀 I’m interested in all android related projects.
-- 🌱 I’m currently learning android full stack web development
-- 💞️ I’m looking to collaborate on android projects
+- 🌱 I’m currently learning android full stack web development adn further enhancing my android skills.
+- 💞️ I’m looking to collaborate on android projects.
 - 📫 contact me at my email negianimesh10@gmail.com
 
 <!---
